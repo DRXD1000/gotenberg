@@ -1,0 +1,5 @@
+Checking for beta autoupdate feature for deb/rpm distributions
+Found package-type: deb
+Checking for beta autoupdate feature
+Found package-type:
+beta autoupdate feature

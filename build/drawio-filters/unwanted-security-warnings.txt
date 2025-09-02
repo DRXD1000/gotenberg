@@ -1,0 +1,13 @@
+Failed to call
+Failed to connect
+Failed to post
+Floss manager service
+InitializeSandbox() called with
+dri3 extension not
+Failed to connect to the bus:
+Could not parse server address:
+object_path= /org/freedesktop/DBus:
+WARNING:ui/gfx/linux/gpu_memory_buffer_support_x11.cc:
+WARNING:sandbox/policy/linux/sandbox_linux.cc:
+ERROR:dbus/bus.cc:
+ERROR:dbus/object_proxy.cc:
